@@ -1,6 +1,6 @@
 # Project Donald Trump Speeches
 
-![Trump-Tweets](https://user-images.githubusercontent.com/72619886/141006122-73dc4dc0-c953-4aba-bcf4-ea9e70b5fb2c.jpg)
+![Trump-Tweets](https://user-images.githubusercontent.com/72619886/141006628-11e8a375-d1a0-4e25-83a1-bed60159d0f2.jpg)
 
 ## Backstory:
 There is no doubt that Donald Trump has been a very controversial and polarizing figure in the United States, especially since he announced his run for the presidency in 2019.
