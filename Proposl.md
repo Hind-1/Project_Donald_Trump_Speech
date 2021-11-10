@@ -9,7 +9,8 @@ This project was primarily inspired by Donald Trump's relentless use of Twitter.
 
 ## Goal:
 
-•	What is the overall sentiment of Trump's tweets, and how has it changed over time?
+•	What is the overall sentiment of Trump's tweets, and how has it changed over time?                     
+
 •	What are some defining features of Trump's behavior on Twitter, and how can we visualize them?
 
 ## Citation:
