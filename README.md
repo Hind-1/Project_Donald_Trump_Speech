@@ -3,3 +3,8 @@
 
 Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents 
 
+In this project was primarily inspired by Donald Trump's relentless use of Twitter the goal is :
+
+•	What are some defining features of Trump's behavior on Twitter?
+
+
