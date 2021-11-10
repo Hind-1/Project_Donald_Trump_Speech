@@ -3,7 +3,7 @@
 ![Trump-Tweets](https://user-images.githubusercontent.com/72619886/141006864-abffb6f8-c102-4bf8-a11b-565b56a2c956.jpg)
 
 ## Backstory:
-There is no doubt that Donald Trump has been a very controversial and polarizing figure in the United States, especially since he announced his run for the presidency in 2019.
+There is no doubt that Donald Trump has been a very controversial and polarizing figure in the United States, especially since he announced his run for the presidency in 2017.
 Throughout his presidency, Donald Trump has used Twitter as a powerful tool to reach his supporters. The social media service has, without a doubt, been one of his most powerful tools.
 This project was primarily inspired by Donald Trump's relentless use of Twitter.
 
