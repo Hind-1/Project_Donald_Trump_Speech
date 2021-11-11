@@ -9,7 +9,7 @@ Throughout his presidency, Donald Trump has used speech as a powerful tool to re
 
 ## Goal:
 
-•Analyzing Trump Speech Transcripts Using NLP and determine topics
+•Analyzing Trump Speech Transcripts Using NLP and determine topics.
 
 ## Citation:
 Kaggle:
