@@ -1,19 +1,17 @@
 # Project Donald Trump Speeches
 
-![Trump-Tweets](https://user-images.githubusercontent.com/72619886/141006864-abffb6f8-c102-4bf8-a11b-565b56a2c956.jpg)
+![Picture1](https://user-images.githubusercontent.com/72619886/141303136-4ca5c751-f069-427d-a0dc-64b0600a91cf.jpg)
 
 ## Backstory:
 There is no doubt that Donald Trump has been a very controversial and polarizing figure in the United States, especially since he announced his run for the presidency in 2017.
-Throughout his presidency, Donald Trump has used Twitter as a powerful tool to reach his supporters. The social media service has, without a doubt, been one of his most powerful tools.
-This project was primarily inspired by Donald Trump's relentless use of Twitter.
+Throughout his presidency, Donald Trump has used speech as a powerful tool to reach his supporters. The purpose of this project is to carry out NLP analysis of Donald Trump's political rally speeches.
+
 
 ## Goal:
 
-•	What is the overall sentiment of Trump's tweets, and how has it changed over time?                     
-
-•	What are some defining features of Trump's behavior on Twitter, and how can we visualize them?
+•Analyzing Trump Speech Transcripts Using NLP and determine topics
 
 ## Citation:
-Trump Tweets | Kaggle:
-https://www.kaggle.com/austinreese/trump-tweets
+Kaggle:
+https://www.kaggle.com/christianlillelund/donald-trumps-rallies
 
