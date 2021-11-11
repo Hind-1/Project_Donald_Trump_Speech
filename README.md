@@ -5,6 +5,6 @@ Natural language processing (NLP) is a subfield of linguistics, computer science
 
 In this project was primarily inspired by Analyzing Trump Speech Transcripts the goal is :
 
-•Analyzing Trump Speech Transcripts Using NLP and determine topics
+•Analyzing Trump Speech Transcripts Using NLP and determine topics.
 
 
