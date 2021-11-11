@@ -10,7 +10,7 @@ Throughout his presidency, Donald Trump has used speech as a powerful tool to re
 ## Goal:
 
 •Analyzing Trump Speech Transcripts Using NLP and determine topics.
-## Tool:
+## Tools:
 To explore and analyze the data and do the prediction models in python, we will use Jupyter
 notebook and Python packages, such as: Pandas and NumPy Matplotlib, seaborn and SKLearn for
 modeling. NLTK and Textblob for text pre-processing and cleaning the text Also we may use extra
