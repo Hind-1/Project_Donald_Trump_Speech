@@ -1,5 +1,5 @@
 #  Analyzing Donald Trump's Speech using NLP 
-![image](https://user-images.githubusercontent.com/72619886/142268982-c8335984-eab0-4ca1-925c-c887e55d5e42.png)
+![image](https://user-images.githubusercontent.com/72619886/142269060-67d20443-3a91-4b0a-ae7a-690f7d76c1dd.png)
 
 Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents 
 
